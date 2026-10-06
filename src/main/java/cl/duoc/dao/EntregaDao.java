@@ -91,10 +91,5 @@ public class EntregaDao {
     }
 
 }
-    //conectar
-    //crear
-    //listar
-    //actualizar
-    //eliminar
 
 
